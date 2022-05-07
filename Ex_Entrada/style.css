@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(img/fondo.jpg);
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+#register {
+    width: 450px;
+    background-color: rgb(73, 123, 123);
+    padding: 100px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#name_id {
+    width: 100%;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+}
+
+#register_button {
+    width: 100%;
+    padding: 15PX;
+    background: powderblue;
+    font-size: 15px;
+}
